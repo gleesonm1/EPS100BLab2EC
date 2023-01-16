@@ -5,6 +5,6 @@
 #    pip-compile
 #
 matplotlib==3.5.3
-numpy==1.23.5
+numpy==1.21.5
 pandas==1.4.4
 pyMelt==2.00
